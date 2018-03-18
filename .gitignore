@@ -1,0 +1,4 @@
+.shadow-cljs
+public/js
+yarn.lock
+node_modules/
